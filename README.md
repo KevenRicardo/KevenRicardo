@@ -6,6 +6,8 @@
 [![Linkd](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/keven-ricardo-rocha-costa-18a560135)
 
 ![KevenRicardo GitHub stats](https://github-readme-stats.vercel.app/api?username=KevenRicardo&show_icons=true&theme=dracula)
+<img aling="rinht" alt="gif" windht="200" src="https://pt.bloggif.com/output/a/3/a3fbb75b3add1b469db8ff5603b5250d.gif?1647060117">
+
 
 ## Tecnologia que uso no meu dia
 
@@ -17,4 +19,4 @@
 
 Amo o mundo quantico, e a possibilidade da programação entra a fundo no sintema artificial.
 
-<img aling="rinht" alt="gif" windht="200" src="https://pt.bloggif.com/output/a/3/a3fbb75b3add1b469db8ff5603b5250d.gif?1647060117">
+
