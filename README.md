@@ -6,7 +6,7 @@
 [![Linkd](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/keven-ricardo-rocha-costa-18a560135)
 
 ![KevenRicardo GitHub stats](https://github-readme-stats.vercel.app/api?username=KevenRicardo&show_icons=true&theme=dracula)
-<img aling="rinht" alt="gif" windht="200" src="https://pt.bloggif.com/output/a/3/a3fbb75b3add1b469db8ff5603b5250d.gif?1647060117">
+<img aling="rinht" alt="gif" windht="200" src="https://pt.bloggif.com/output/5/5/55608c07d3c992f16a9afa60f5cc19ec.gif?1647060208">
 
 
 ## Tecnologia que uso no meu dia
