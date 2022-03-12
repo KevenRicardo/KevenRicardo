@@ -17,4 +17,4 @@
 
 Amo o mundo quantico, e a possibilidade da programação entra a fundo no sintema artificial.
 
-<img aling="rinht" alt="gif" windht="400" src="https://blog.bsource.com.br/assets/img/earlyacess.gif">
+<img aling="rinht" alt="gif" windht="200" src="https://pt.bloggif.com/output/a/3/a3fbb75b3add1b469db8ff5603b5250d.gif?1647060117">
