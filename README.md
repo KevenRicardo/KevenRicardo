@@ -5,7 +5,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/Kevenplay)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevenricardo7/?hl=pt-br)
 [![Linkd](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/keven-ricardo-rocha-costa-18a560135)
-[![Gmail](https://img.shields.io/badge/https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/mwlite/in/keven-ricardo-rocha-costa-18a560135)
+[![gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 ![KevenRicardo GitHub stats](https://github-readme-stats.vercel.app/api?username=KevenRicardo&show_icons=true&theme=dracula)
 <img aling="rinht" alt="gif" windht="200" src="https://pt.bloggif.com/output/5/5/55608c07d3c992f16a9afa60f5cc19ec.gif?1647060208">
