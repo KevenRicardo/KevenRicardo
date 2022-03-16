@@ -8,7 +8,6 @@
 [![gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 ![KevenRicardo GitHub stats](https://github-readme-stats.vercel.app/api?username=KevenRicardo&show_icons=true&theme=dracula)
-<img aling="rinht" alt="gif" windht="200" src="https://pt.bloggif.com/output/5/5/55608c07d3c992f16a9afa60f5cc19ec.gif?1647060208">
 
 
 ## Tecnologia que uso no meu dia
