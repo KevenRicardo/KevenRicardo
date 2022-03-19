@@ -12,12 +12,11 @@
 
 ## Tecnologia que uso no meu dia
 
+Amo o mundo quantico, e a possibilidade da programação entra a fundo no sintema artificial.
 <div style="display: inline_block"><br/>
 <img alaig="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img alaig="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alaig="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 </div><br/>
-
-Amo o mundo quantico, e a possibilidade da programação entra a fundo no sintema artificial.
-
+<img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
 
